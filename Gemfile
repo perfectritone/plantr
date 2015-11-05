@@ -34,5 +34,7 @@ group :development do
   gem 'spring'
 end
 
-gem 'rom'
+gem 'rom-rails'
+
+gem 'pg'
 gem 'rom-sql'
